@@ -1,0 +1,25 @@
+body {
+	height: 90vh;
+    background-color: #dddfe6;
+}
+.container {
+    max-width: 700px;
+}
+.textoFiltrado {
+    display:none !important;
+}
+#buscar {
+	width: 40%;
+}
+
+/* iconos */
+.fa-minus-circle {
+	  padding-top: 5px;
+      color: #ec081f;
+	  font-size:20px;
+	  cursor: pointer;
+}
+.fa-plus {
+	color: bisque;
+	font-size: large;
+}
